@@ -1,0 +1,11 @@
+pdf2image
+Pillow
+boto3 
+python-dotenv
+textract-trp
+fastapi
+python-multipart
+uvicorn
+python-docx
+amazon-textract-response-parser
+python-multipart
